@@ -1,0 +1,14 @@
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\bin\Debug\net8.0\GeradorDeApostass.exe
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\bin\Debug\net8.0\GeradorDeApostass.deps.json
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\bin\Debug\net8.0\GeradorDeApostass.runtimeconfig.json
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\bin\Debug\net8.0\GeradorDeApostass.dll
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\bin\Debug\net8.0\GeradorDeApostass.pdb
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\obj\Debug\net8.0\GeradorDeApostass.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\obj\Debug\net8.0\GeradorDeApostass.AssemblyInfoInputs.cache
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\obj\Debug\net8.0\GeradorDeApostass.AssemblyInfo.cs
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\obj\Debug\net8.0\GeradorDeApostass.csproj.CoreCompileInputs.cache
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\obj\Debug\net8.0\GeradorDeApostass.dll
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\obj\Debug\net8.0\refint\GeradorDeApostass.dll
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\obj\Debug\net8.0\GeradorDeApostass.pdb
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\obj\Debug\net8.0\GeradorDeApostass.genruntimeconfig.cache
+d:\Projetos\GeradorDeApostas\GeradorDeApostass\obj\Debug\net8.0\ref\GeradorDeApostass.dll
